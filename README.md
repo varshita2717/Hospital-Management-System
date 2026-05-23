@@ -3,6 +3,9 @@
 A full-stack Hospital Management System built with **React**, **Node.js (Express)**, and **MySQL**. Designed to streamline hospital operations including patient management, doctor scheduling, appointments, room allocation, billing, and medical records — with role-based access for Admins and Doctors.
 
 ---
+## Report
+
+A whole report with the funcitonal requirements and the data requirements of relevant frs and ui/ux, available features screenshots can be accessed with this link-  [Good Will's HMS Report](https://drive.google.com/drive/folders/1WLXDe38F2B71R-blalSiK-ZT97gO9Kct?usp=sharing)
 
 ## ✨ Features
 
@@ -188,9 +191,6 @@ http://localhost:5173
 - **Admins** — select Admin role, enter the Admin Access Code set in `.env`
 
 
-## Report
-
-A whole report with the funcitonal requirements and the data requirements of relevant frs and ui/ux, available features screenshots can be accessed with this link-  [Good Will's HMS Report](https://drive.google.com/drive/folders/1WLXDe38F2B71R-blalSiK-ZT97gO9Kct?usp=sharing)
 
 ---
 
